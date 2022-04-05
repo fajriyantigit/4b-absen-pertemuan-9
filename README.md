@@ -2,3 +2,4 @@
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
 - [Nama Lengkap] - [NPM]
+- [Fajri Yanti] - [2010631170069]
